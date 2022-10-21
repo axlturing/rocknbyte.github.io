@@ -1,8 +1,8 @@
 ---
-title: Colophon
+title: axl
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Hello peeps, I'm a computer engineer from London. 
 comments: false
 ---
 
@@ -16,3 +16,4 @@ You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is 
 
 - {{ site.author.email }}
 - github.com/{{ site.author.github }}
+- twitter.com/{{ site.author.twitter }}
