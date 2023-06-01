@@ -1,5 +1,5 @@
 ---
-title: Axl Turing
+title: Rock n' Byte
 permalink: /about/
 layout: page
 excerpt: Hello peeps, I'm a computer engineer from London. 
