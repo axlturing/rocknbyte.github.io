@@ -1,5 +1,5 @@
 # Site settings
-title: Rock'n Byte # site title
+title: Rock n' Byte # site title
 description: >- # site description
   writing in London about tech, science, art, and existence
 lang: en-GB # default lang
@@ -9,7 +9,7 @@ mode: light # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: rock'n byte # author name
+  name: rock n' byte # author name
   bio: >- # tell to the world
     journal for my journey as part of computer science, science, art, and existence
   username: rocknbyte # general username
