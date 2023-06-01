@@ -4,7 +4,6 @@ date: 2023-06-01 15:59:00 +00:00
 tags: [stoicism, thinking]
 description: Notes from Marcus Aurelus that I've been collecting so far.
 ---
-
 1. Does any external event upset you? Create some free time for yourself to learn something good and put an end to aimless wandering.
 
 2. Whatever you constantly think about, your mind will resemble it. For the soul is dyed by its thoughts.
